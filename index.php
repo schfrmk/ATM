@@ -3,7 +3,7 @@ require_once('Includes/Classes/ATM.php');
 require_once('Includes/Classes/MoneyBank.php');
 
 /**
- * Let's make some tranactions
+ * Let's make some transactions
  */
 $bank = new MoneyBank();
 echo "First transaction.</br>";
